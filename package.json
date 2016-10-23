@@ -1,0 +1,16 @@
+{
+  "name": "mapBox3d",
+  "version": "1.0.0",
+  "description": "MapBox 3d",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/gupuru/MapBox3dSamle.git",
+    "type": "git"
+  },
+  "author": "gupuru",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.17.5",
+    "gulp": "^3.9.1"
+  }
+}
